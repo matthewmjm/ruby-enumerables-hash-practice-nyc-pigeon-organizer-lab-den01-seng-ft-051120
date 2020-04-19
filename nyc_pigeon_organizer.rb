@@ -49,7 +49,7 @@ def nyc_pigeon_organizer(data)
           #populated Theo color of purple, grey 
       end
     end
-    binding.pry
+    #populated all of Theo
   end 
   hash
 end
