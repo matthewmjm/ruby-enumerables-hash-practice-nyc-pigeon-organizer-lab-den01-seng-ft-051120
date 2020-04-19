@@ -51,10 +51,10 @@ def nyc_pigeon_organizer(data)
     end
     #populated all of Theo
   end 
-  binding.pry
+#  binding.pry
   hash
 end
-#binding.pry
+
 
 
 
